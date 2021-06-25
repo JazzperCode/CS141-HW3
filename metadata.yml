@@ -1,0 +1,12 @@
+---
+:id: 27913574
+:submitters:
+- :name: Jasper Kit-Yue Lam
+  :email: jasperkl@uci.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-01-29 06:30:03.973927000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-01-28 22:30:03.973927000 Z
+:status: processed
+:score: 30.0
